@@ -1,0 +1,16 @@
+{
+  "game_title": "ULC 27",
+  "version": "1.0",
+  "teams": [
+    {
+      "name": "Team ULC",
+      "rating": 85,
+      "tactique": "Offensif"
+    },
+    {
+      "name": "All Stars",
+      "rating": 90,
+      "tactique": "Équilibré"
+    }
+  ]
+}
